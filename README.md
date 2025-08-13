@@ -20,5 +20,4 @@ Python | JavaScript | HTML | CSS | SQL
 [![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
 
 ---
-💡 “Code, Learn, Build, Repeat”
 
