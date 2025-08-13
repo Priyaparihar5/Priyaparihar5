@@ -1,16 +1,24 @@
-## Hi there 👋
+ 👋 Hi, I'm Priya Parihar  
+🚀 *BTech Student  | Full Stack Development Enthusiast*  
 
-<!--
-**Priyaparihar5/Priyaparihar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 Pursuing *BTech in AI & Data Science*  
+- 💻 Learning *Full Stack Development*  
+- 🌱 Currently exploring *Machine Learning & Web Development*  
+- 🎯 Goal: Become a skilled *AI Engineer* and *Full Stack Developer*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+*Languages:*  
+Python | JavaScript | HTML | CSS | SQL
+---
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@gmail.com)
+
+---
+💡 “Code, Learn, Build, Repeat”
+
